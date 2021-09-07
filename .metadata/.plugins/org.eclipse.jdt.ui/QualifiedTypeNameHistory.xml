@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.bukkit.entity.Player"/>
+<fullyQualifiedTypeName name="org.bukkit.Bukkit"/>
+<fullyQualifiedTypeName name="command.ChangePassword"/>
+<fullyQualifiedTypeName name="player.playerManagement"/>
+</qualifiedTypeNameHistroy>

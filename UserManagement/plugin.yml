@@ -1,0 +1,16 @@
+main: plugin.plugin
+version: 1.0.0
+name: UserManagement
+commands:
+   usermanagement:
+      description: Admin commands
+      usage: /userManagement
+   register:
+      description: Register user
+      usage: /register
+   login:
+      description: Login user
+      usage: /login
+   changePassword:
+      description: User change his password
+      usage: /changePassword
